@@ -1,0 +1,6 @@
+.cvimage {
+    background-image: url(../Asserts/image/backimg.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
